@@ -1,1 +1,1 @@
-# FORMAT_XML_SCB
+# sacom_ver1
